@@ -1,0 +1,66 @@
+.bg1 {
+    background-color:#dce29f;
+}
+.c_header {
+  border: 10px solid #c1c54e;
+  padding: 10px;
+  background-color: #1a3f13;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+}
+
+.collapse navbar-collapse {
+   background-color: #003519;
+}
+.title-main-page {
+   color: #1a3f13;
+   font-family: Monotype Corsiva;
+   text-align:left;
+   text-indent: 50px;
+}
+.main-page {
+   color: #1a3f13;
+   font-family: Harrington;
+   font-size: 20px;
+   text-indent: 40px;
+}
+.autor_data {
+  border: 0px solid #FFB300;
+  padding: 2px;
+  background-color: #6D8C00;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  color: #ffffff;
+  border-radius: 2em 2em 2em / 2em 2em;
+
+}
+.list1 {
+  border: 0px solid #eae4dc;
+  padding: 20px;
+  background-color: #eef2db;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  color: #1a3f13;
+  border-radius: 2em 2em 2em / 2em 2em;
+  margin-top: 15px
+
+}
+.button1 {
+  background-color:  #BCAF4D;
+  border: 0px solid #FFB300;
+  padding: 5px;
+  border-radius: 2em 2em 2em / 2em 2em;
+  color: #ffffff;
+
+}
+.footer1 {
+  border: 0px solid #eae4dc;
+  padding: 30px;
+  background-color: #8fa329;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  color: #ffffff;
+  border-radius: 2em 2em 2em / 2em 2em;
+  margin-top: 20px
+
+}
